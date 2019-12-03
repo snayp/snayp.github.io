@@ -31,20 +31,6 @@
   </url>
   
   <url>
-    <loc>https://snayp.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://snayp.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://snayp.github.io/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://snayp.github.io/</loc>
     <xhtml:link
                 rel="alternate"
@@ -55,6 +41,20 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://snayp.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snayp.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://snayp.github.io/tags/"
                 />
   </url>
   
