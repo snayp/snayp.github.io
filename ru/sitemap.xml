@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://snayp.github.io/author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snayp.github.io/en/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://snayp.github.io/author/"
+                />
+  </url>
+  
+  <url>
     <loc>https://snayp.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
