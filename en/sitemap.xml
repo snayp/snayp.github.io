@@ -31,6 +31,20 @@
   </url>
   
   <url>
+    <loc>https://snayp.github.io/en/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://snayp.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snayp.github.io/en/posts/"
+                />
+  </url>
+  
+  <url>
     <loc>https://snayp.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
