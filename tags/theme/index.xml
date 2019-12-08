@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>theme on тесты по &#43; музон &#43; котики</title>
+    <link>https://snayp.github.io/tags/theme/</link>
+    <description>Recent content in theme on тесты по &#43; музон &#43; котики</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://snayp.github.io/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How To Setup Meghna Hugo</title>
+      <link>https://snayp.github.io/en/posts/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://snayp.github.io/en/posts/installation/</guid>
+      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
+    </item>
+    
+    <item>
+      <title>How To Setup Meghna Hugo</title>
+      <link>https://snayp.github.io/posts/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://snayp.github.io/posts/installation/</guid>
+      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
+    </item>
+    
+  </channel>
+</rss>

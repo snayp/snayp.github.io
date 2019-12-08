@@ -3,6 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://snayp.github.io/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://snayp.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snayp.github.io/en/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/en/author/snayp/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://snayp.github.io/author/snayp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snayp.github.io/en/author/snayp/"
+                />
+  </url>
+  
+  <url>
     <loc>https://snayp.github.io/en/author/</loc>
     <xhtml:link
                 rel="alternate"
@@ -27,20 +55,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://snayp.github.io/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/en/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://snayp.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://snayp.github.io/en/posts/"
                 />
   </url>
   
