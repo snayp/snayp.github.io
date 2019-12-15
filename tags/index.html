@@ -1,224 +1,580 @@
 <!DOCTYPE html>
-<html class="no-js" lang="ru" scroll-behavior="smooth"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="">
-    <meta name="author" content="">
+<html lang="ru">
 
-    <!-- Mobile Specific Meta -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academia 4.3.1">
+  <meta name="generator" content="Hugo 0.60.1" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Дмитрий Шилин">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="тестировщик">
+
+  
+  <link rel="alternate" hreflang="ru" href="https://snayp.github.io/tags/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#00d1b2">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/solarized-dark.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/solarized-dark.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+      
     
 
-    <title>Tags</title>
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Open+Sans|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academia.min.7bb2d6a90ea1158e524c7310c618b055.css">
+
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="/tags/index.xml" type="application/rss+xml" title="snayp">
+  <link rel="feed" href="/tags/index.xml" type="application/rss+xml" title="snayp">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://snayp.github.io/tags/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@agileorange">
+  <meta property="twitter:creator" content="@agileorange">
+  
+  <meta property="og:site_name" content="snayp">
+  <meta property="og:url" content="https://snayp.github.io/tags/">
+  <meta property="og:title" content="Tags | snayp">
+  <meta property="og:description" content="тестировщик"><meta property="og:image" content="https://snayp.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://snayp.github.io/img/icon-192.png"><meta property="og:locale" content="ru">
+  
+  <meta property="og:updated_time" content="2019-04-07T00:00:00&#43;00:00">
+  
+
+  
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#00d1b2",
+          "text": "#EAE7D6"
+        },
+        "button": {
+          "background": "#EAE7D6",
+          "text": "#00d1b2"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "Данный сайт использует cookies файлы для того, чтобы вы получили лучшее впечатление от его использования.",
+        "dismiss": "Ясно!",
+        "link": "Узнать больше",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
 
 
-    <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="https://snayp.github.io/images/favicon.ico"/>
 
-    <!-- CSS -->
-    <!-- Fontawesome Icon font -->
-    <link rel="stylesheet" href="https://snayp.github.io/plugins/themefisher-font/style.css">
-    <!-- bootstrap.min css -->
-    <link rel="stylesheet" href="https://snayp.github.io/plugins/bootstrap/dist/css/bootstrap.min.css">
-    <!-- Animate.css -->
-    <link rel="stylesheet" href="https://snayp.github.io/plugins/animate-css/animate.css">
-    <!-- Magnific popup css -->
-    <link rel="stylesheet" href="https://snayp.github.io/plugins/magnific-popup/dist/magnific-popup.css">
-    <!-- Slick Carousel -->
-    <link rel="stylesheet" href="https://snayp.github.io/plugins/slick-carousel/slick/slick.css">
-    <link rel="stylesheet" href="https://snayp.github.io/plugins/slick-carousel/slick/slick-theme.css">
-    <!-- Main Stylesheet -->
-    
-    <link rel="stylesheet" href="https://snayp.github.io/css/style.min.css" integrity="" media="screen">
-    <!-- Custom CSS -->
-    
-    <link rel="stylesheet" href="https://snayp.github.io/css/custom.css">
-    
+  
+
+
+
+
+
+  <title>Tags | snayp</title>
 
 </head>
-<body id="body" data-spy="scroll" data-target=".navbar" data-offset="52">
-        <div id="content">
 
-<!-- Fixed Navigation -->
-<nav id="navigation" class="navbar navbar-expand-lg navigation sticky-top">
-	<div class="container">
 
-		<!-- logo -->
-		<a class="navbar-brand logo" href="https://snayp.github.io/">
-			
-			<span class="pl-2 font-weight-bold">тесты по &#43; музон &#43; котики</span>
-		</a>
-		<!-- /logo -->
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
 
-		<!-- responsive nav button -->
-		<button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse"
-			data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
-			aria-label="Toggle navigation">
-			<span class="navbar-toggler-icon"></span>
-		</button>
-		<!-- /responsive nav button -->
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
 
-		<!-- main nav -->
-		
-		<div class="collapse navbar-collapse" id="navbarSupportedContent">
-			<ul class="navbar-nav ml-auto navigation-menu">
-				<li class="nav-item"><a class="nav-link" data-scroll
-						href="https://snayp.github.io/#body"></a></li>
-				
-			</ul>
-		</div>
-		
-		<!-- /main nav -->
-	</div>
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Поиск</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">snayp</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Переключить навигацию"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>инфо</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>блог</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>проекты</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
 </nav>
-<!-- End Fixed Navigation -->
 
-<!-- Start Blog Section -->
-<section id="blog" class="section">
-    <div class="container">
-        <div class="row">
 
-            
-            <!-- single blog post -->
-            
-<article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
-    <div class="post-block">
-        <div class="media-wrapper">
-            
-        </div>
+  
 
-        <div class="content">
-            <h3><a href="https://snayp.github.io/tags/golang/">golang</a></h3>
-            <p></p>
-            <a class="btn btn-transparent" href="https://snayp.github.io/tags/golang/">Читать далее</a>
-        </div>
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    
+    
+    
+    <div class="universal-wrapper py-3">
+      <h1 itemprop="name">Tags</h1>
+
+      
+
+      
+      
     </div>
-</article>
+  </div>
+</div>
 
-            <!-- /single blog post -->
-            
-            <!-- single blog post -->
-            
-<article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
-    <div class="post-block">
-        <div class="media-wrapper">
-            
-        </div>
+<div class="universal-wrapper">
+  
 
-        <div class="content">
-            <h3><a href="https://snayp.github.io/tags/hugo/">hugo</a></h3>
-            <p></p>
-            <a class="btn btn-transparent" href="https://snayp.github.io/tags/hugo/">Читать далее</a>
-        </div>
+  
+  
+  <div>
+    <h2><a href="/tags/source-themes/">Source Themes</a></h2>
+    <div class="article-style">
+      
     </div>
-</article>
-
-            <!-- /single blog post -->
-            
-            <!-- single blog post -->
-            
-<article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
-    <div class="post-block">
-        <div class="media-wrapper">
-            
-        </div>
-
-        <div class="content">
-            <h3><a href="https://snayp.github.io/tags/programming/">programming</a></h3>
-            <p></p>
-            <a class="btn btn-transparent" href="https://snayp.github.io/tags/programming/">Читать далее</a>
-        </div>
+  </div>
+  
+  <div>
+    <h2><a href="/tags/deep-learning/">Deep Learning</a></h2>
+    <div class="article-style">
+      
     </div>
-</article>
-
-            <!-- /single blog post -->
-            
-            <!-- single blog post -->
-            
-<article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
-    <div class="post-block">
-        <div class="media-wrapper">
-            
-        </div>
-
-        <div class="content">
-            <h3><a href="https://snayp.github.io/tags/theme/">theme</a></h3>
-            <p></p>
-            <a class="btn btn-transparent" href="https://snayp.github.io/tags/theme/">Читать далее</a>
-        </div>
+  </div>
+  
+  <div>
+    <h2><a href="/tags/demo/">Demo</a></h2>
+    <div class="article-style">
+      
     </div>
-</article>
-
-            <!-- /single blog post -->
-            
-        </div>
+  </div>
+  
+  <div>
+    <h2><a href="/tags/human/">human</a></h2>
+    <div class="article-style">
+      
     </div>
-</section>
-<!-- /blog -->
+  </div>
+  
+  <div>
+    <h2><a href="/tags/robotics/">robotics</a></h2>
+    <div class="article-style">
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/tags/academia/">academia</a></h2>
+    <div class="article-style">
+      
+    </div>
+  </div>
+  
+
+  
+
+</div>
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+    <script id="dsq-count-scr" src="//@disqus_uwXgz93efn.disqus.com/count.js" async></script>
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/js/academia.min.281fa180ccfa1769ea3c7dd430814861.js"></script>
+
+    
 
 
-        </div><!-- end Contact Area -->
-<footer id="footer" class="bg-one">
-	<div class="container">
-		<div class="row wow fadeInUp" data-wow-duration="500ms">
-			<div class="col-xl-12">
 
-				<!-- Footer Social Links -->
-				<div class="social-icon">
-					<ul class="list-inline">
-						
-					</ul>
-				</div>
 
-				<!-- copyright -->
-				<div class="copyright text-center">
-					<a href="https://snayp.github.io/">
-						<img src="https://snayp.github.io/" alt="Meghna" />
-					</a>
-					<br>
-					<p>Design And Developed by <a href="https://snayp.github.io/">  </a>. Copyright &copy; <script>
-							document.write(new Date().getFullYear())
-						</script>. All Rights Reserved.</p>
-				</div>
-			</div>
-		</div>
-	</div>
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        
+        <p>
+          
+          Работает на
+          <a href="https://themefisher.com" target="_blank" rel="noopener">themefisher</a> for
+          <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+        </p>
+      </div>
+      <div class="col-md-6">
+        <ul class="list-inline network-icon text-right">
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://twitter.com/Twitter" target="_blank" rel="noopener" title="DM Me"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://github.com/snayp" target="_blank" rel="noopener" title="My repos"><i class="fab fa-github" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://telegram.me/@Telegram" target="_blank" rel="noopener" title="Telegram Me"><i class="fab fa-telegram" aria-hidden="true"></i></a>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
 </footer>
-<!-- /footer -->
 
-<!-- Essential Scripts -->
+  </div>
+  
 
-		<!-- Main jQuery -->
-		<script type="text/javascript" src="https://snayp.github.io/plugins/jquery/dist/jquery.min.js"></script>
-		<!-- Bootstrap 4.3 + Popper -->
-		<script type="text/javascript" src="https://snayp.github.io/plugins/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-		<!-- Slick Carousel -->
-		<script type="text/javascript" src="https://snayp.github.io/plugins/slick-carousel/slick/slick.min.js"></script>
-		<!-- Portfolio Filtering -->
-		<script type="text/javascript" src="https://snayp.github.io/plugins/filterzr/jquery.filterizr.min.js"></script>
-		<!-- Magnific popup -->
-		<script type="text/javascript" src="https://snayp.github.io/plugins/magnific-popup/dist/jquery.magnific-popup.min.js"></script>
-		<!-- Google Map API -->
-		<script type="text/javascript"  src="https://snayp.github.io/"></script>
-		<!-- Number Counter Script -->
-		<script type="text/javascript" src="https://snayp.github.io/plugins/count-to/jquery.countTo.js"></script>
-		<!-- wow.min Script -->
-		<script type="text/javascript" src="https://snayp.github.io/plugins/wow/dist/wow.min.js"></script>
-		<!-- Scroll behavior polyfill -->
-		
-		<script src="https://snayp.github.io/js/scroll-behavior-polyfill.min.js"></script>
-		<!-- Sweet Alert -->
-		<script type="text/javascript" src="https://snayp.github.io/plugins/sweet-alert/sweetalert.min.js"></script>
-		<!-- Custom js -->
-		
-		<script src="https://snayp.github.io/js/script.min.js"></script>
-		<!-- google analitycs -->
-		<script>
-				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-				ga('create', '', 'auto');
-				ga('send', 'pageview');
-		</script>
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
 </body>
 </html>

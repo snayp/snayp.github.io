@@ -1,47 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on тесты по &#43; музон &#43; котики</title>
+    <title>Tags on snayp</title>
     <link>https://snayp.github.io/tags/</link>
-    <description>Recent content in Tags on тесты по &#43; музон &#43; котики</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Tags on snayp</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://snayp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://snayp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>golang</title>
-      <link>https://snayp.github.io/tags/golang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Source Themes</title>
+      <link>https://snayp.github.io/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://snayp.github.io/tags/golang/</guid>
+      <guid>https://snayp.github.io/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>https://snayp.github.io/tags/hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Deep Learning</title>
+      <link>https://snayp.github.io/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://snayp.github.io/tags/hugo/</guid>
+      <guid>https://snayp.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>programming</title>
-      <link>https://snayp.github.io/tags/programming/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Demo</title>
+      <link>https://snayp.github.io/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://snayp.github.io/tags/programming/</guid>
+      <guid>https://snayp.github.io/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>theme</title>
-      <link>https://snayp.github.io/tags/theme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>human</title>
+      <link>https://snayp.github.io/tags/human/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://snayp.github.io/tags/theme/</guid>
+      <guid>https://snayp.github.io/tags/human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robotics</title>
+      <link>https://snayp.github.io/tags/robotics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://snayp.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academia</title>
+      <link>https://snayp.github.io/tags/academia/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://snayp.github.io/tags/academia/</guid>
       <description></description>
     </item>
     

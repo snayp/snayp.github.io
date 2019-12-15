@@ -1,22 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on тесты по &#43; музон &#43; котики</title>
+    <title>Categories on snayp</title>
     <link>https://snayp.github.io/categories/</link>
-    <description>Recent content in Categories on тесты по &#43; музон &#43; котики</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Categories on snayp</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>ru</language>
     
-	<atom:link href="https://snayp.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://snayp.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>starting</title>
-      <link>https://snayp.github.io/categories/starting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://snayp.github.io/categories/starting/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

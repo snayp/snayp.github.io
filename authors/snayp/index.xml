@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>snayp</title>
+    <link>https://snayp.github.io/authors/snayp/</link>
+    <description>Recent content on snayp</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>ru</language>
+    
+	    <atom:link href="https://snayp.github.io/authors/snayp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
