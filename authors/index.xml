@@ -5,12 +5,36 @@
     <link>https://snayp.github.io/authors/</link>
       <atom:link href="https://snayp.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>snayp</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>snayp</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snayp.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://snayp.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://snayp.github.io/authors/snayp/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://snayp.github.io/authors/snayp/</guid>
+      <description>&lt;p&gt;Более 10 лет я работаю инженером качества ПО. Тестировал руками финансовые системы в банках и телекоме. В стартапах организовывал процесс выпуска релизов, а так же руководил отделом качества, разрабатывал и внедрял комплексную систему мониторинга и тестирования.
+Современный бизнес должен иметь возможность максимально быстро предоставить пользователям качественное решение.
+В этой ситуации тестирование - это уже не просто поиск ошибок, но комплекс мер, способных помощь при создании клиентоориентированного приложения.&lt;/p&gt;
+&lt;p&gt;Идея создать блог, в котором записывать, больше для себя, на память, различные технические вещи, возникла пару лет назад, но постоянно откладывалась.
+При последнем поиске работы, неприятно удивился, что при столь стремительном развитии методик и инструментов для обеспечения цифрового качества, на отечественном рынке до сих пор остался
+устаревший подход к тестированию, к процессу обеспечения качества и к роли тестировщика в команде.&lt;/p&gt;
+&lt;p&gt;Молчать, в этой ситуации, не профессионально, опыта накопилось по теме достаточно, как хорошего, так и плохого. Данный блог попытка осознать текущее положение вещей в мире тестирования, а так же частный опыт разработки инструментов и процессов для обеспечения качества современного софта.&lt;/p&gt;
+&lt;p&gt;Все здесь написанное - личное мнение автора.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Дмитрий Шилин</title>
+      <link>https://snayp.github.io/authors/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D1%88%D0%B8%D0%BB%D0%B8%D0%BD/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://snayp.github.io/authors/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D1%88%D0%B8%D0%BB%D0%B8%D0%BD/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

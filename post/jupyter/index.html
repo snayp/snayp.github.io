@@ -69,6 +69,9 @@
     
 
     
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/2.9.0/instantsearch.min.css" integrity="sha256-ZtmLe16p4jS4/2wPwwH6NzJt460SJzgLmhKrYo5yn7g=" crossorigin="anonymous">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/2.10.2/instantsearch-theme-algolia.min.css" integrity="sha256-uL8LUd3zkI/lXvc/Hv/oOu8ld6RJcOZiUY/8c+I+3/o=" crossorigin="anonymous">
+    
 
   
 
@@ -236,8 +239,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="Поиск ..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
         
       </div>
 
@@ -558,7 +560,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 480px;">
   <div style="position: relative">
-    <img src="/post/jupyter/featured_hu17228671acc7297decf3359d3864d9fb_379701_720x0_resize_q75_box.jpg" alt="" class="featured-image">
+    <img src="/post/jupyter/featured_hu17228671acc7297decf3359d3864d9fb_379701_720x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
     <span class="article-header-caption">Image credit: <a href="https://unsplash.com/photos/CpkOjOcXdUY"><strong>Unsplash</strong></a></span>
   </div>
 </div>
@@ -568,32 +570,37 @@
   <div class="article-container">
 
     <div class="article-style">
-      <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">from</span> IPython.core.display <span style="color:#f92672">import</span> Image
-Image(<span style="color:#e6db74"></span><span style="color:#e6db74">&#39;</span><span style="color:#e6db74">https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png</span><span style="color:#e6db74">&#39;</span>)
-</code></pre></div><p><img src="./academia_0_0.png" alt="png"></p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">Welcome to academia!</span><span style="color:#e6db74">&#34;</span>)
-</code></pre></div><pre><code>Welcome to academia!
+      <pre><code class="language-python">from IPython.core.display import Image
+Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+</code></pre>
+<p><img src="./academia_0_0.png" alt="png"></p>
+<pre><code class="language-python">print(&quot;Welcome to academia!&quot;)
+</code></pre>
+<pre><code>Welcome to academia!
 </code></pre>
 <h2 id="install-python-and-jupyter">Install Python and Jupyter</h2>
 <p><a href="https://www.anaconda.com/distribution/#download-section">Install Anaconda</a> which includes Python 3 and Jupyter notebook.</p>
 <p>Otherwise, for advanced users, install Jupyter notebook with <code>pip3 install jupyter</code>.</p>
 <h2 id="create-a-new-blog-post-as-usualhttpssourcethemescomacademicdocsmanagingcontentcreateablogpost">Create a new blog post <a href="https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post">as usual</a></h2>
 <p>Run the following commands in your Terminal, substituting <code>&lt;MY_WEBSITE_FOLDER&gt;</code> and <code>my-post</code> with the file path to your academia website folder and a name for your blog post (without spaces), respectively:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cd &lt;MY_WEBSITE_FOLDER&gt;
+<pre><code class="language-bash">cd &lt;MY_WEBSITE_FOLDER&gt;
 hugo new  --kind post post/my-post
 cd &lt;MY_WEBSITE_FOLDER&gt;/content/post/my-post/
-</code></pre></div><h2 id="create-or-upload-a-jupyter-notebook">Create or upload a Jupyter notebook</h2>
+</code></pre>
+<h2 id="create-or-upload-a-jupyter-notebook">Create or upload a Jupyter notebook</h2>
 <p>Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (<em>New &gt; Python Notebook</em>) or upload a notebook.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">jupyter notebook
-</code></pre></div><h2 id="convert-notebook-to-markdown">Convert notebook to Markdown</h2>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir<span style="color:#f92672">=</span>.
+<pre><code class="language-bash">jupyter notebook
+</code></pre>
+<h2 id="convert-notebook-to-markdown">Convert notebook to Markdown</h2>
+<pre><code class="language-bash">jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
 
-<span style="color:#75715e"># Copy the contents of Untitled.md and append it to index.md:</span>
+# Copy the contents of Untitled.md and append it to index.md:
 cat Untitled.md | tee -a index.md
 
-<span style="color:#75715e"># Remove the temporary file:</span>
+# Remove the temporary file:
 rm Untitled.md
-</code></pre></div><h2 id="edit-your-post-metadata">Edit your post metadata</h2>
+</code></pre>
+<h2 id="edit-your-post-metadata">Edit your post metadata</h2>
 <p>Open <code>index.md</code> in your text editor and edit the title etc. in the <a href="https://sourcethemes.com/academic/docs/front-matter/">front matter</a> according to your preference.</p>
 <p>To set a <a href="https://sourcethemes.com/academic/docs/managing-content/#featured-image">featured image</a>, place an image named <code>featured</code> into your post's folder.</p>
 <p>For other tips, such as using math, see the guide on <a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/">writing content with academia</a>.</p>
@@ -814,26 +821,35 @@ rm Untitled.md
 
     
     
-    <script id="search-hit-fuse-template" type="text/x-template">
-      <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
+    <script id="search-hit-algolia-template" type="text/html">
+      <div class="search-hit">
+        <div class="search-hit-content">
+          <div class="search-hit-name">
+            <a href="{{relpermalink}}">{{{_highlightResult.title.value}}}</a>
+          </div>
           <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
+          <p class="search-hit-description">{{{_highlightResult.summary.value}}}</p>
         </div>
-      </div>
       </div>
     </script>
     
 
     
     
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
-    
 
     
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/2.10.2/instantsearch.min.js" integrity="sha256-gFCtPk/sonctyfwYOgjrPoWApQ0rqB6ezBBZ7p32yGc=" crossorigin="anonymous"></script>
+    
+    <script>
+      const algoliaConfig = {
+        appId: "",
+        apiKey: "",
+        indexName: "",
+        poweredBy:  false 
+      };
+    </script>
     
 
     
@@ -855,7 +871,7 @@ rm Untitled.md
     
     
     
-    <script src="/js/academic.min.600a2e440c16093e23e26e90951c4d4b.js"></script>
+    <script src="/js/academic.min.7629ad1701f3d76a591ab4c7fa5739e1.js"></script>
 
     
 
