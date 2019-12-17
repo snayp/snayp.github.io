@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>academia on snayp</title>
+    <title>academia | snayp</title>
     <link>https://snayp.github.io/tags/academia/</link>
-    <description>Recent content in academia on snayp</description>
-    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
-    <language>ru</language>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://snayp.github.io/tags/academia/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://snayp.github.io/tags/academia/index.xml" rel="self" type="application/rss+xml" />
+    <description>academia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>snayp</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snayp.github.io/img/icon-192.png</url>
+      <title>academia</title>
+      <link>https://snayp.github.io/tags/academia/</link>
+    </image>
     
     <item>
       <title>A Study of Snail Behavior</title>
       <link>https://snayp.github.io/post/snail/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://snayp.github.io/post/snail/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with academia using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://academia-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&#39;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
@@ -209,7 +209,6 @@
       <title>academia: the website builder for Hugo</title>
       <link>https://snayp.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://snayp.github.io/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with academia using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://academia-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&#39;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;

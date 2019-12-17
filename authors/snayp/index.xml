@@ -3,12 +3,14 @@
   <channel>
     <title>snayp</title>
     <link>https://snayp.github.io/authors/snayp/</link>
-    <description>Recent content on snayp</description>
-    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
-    <language>ru</language>
-    
-	    <atom:link href="https://snayp.github.io/authors/snayp/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://snayp.github.io/authors/snayp/index.xml" rel="self" type="application/rss+xml" />
+    <description>snayp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>snayp</copyright>
+    <image>
+      <url>https://snayp.github.io/img/icon-192.png</url>
+      <title>snayp</title>
+      <link>https://snayp.github.io/authors/snayp/</link>
+    </image>
     
   </channel>
 </rss>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on snayp</title>
+    <title>Recent &amp; Upcoming Talks | snayp</title>
     <link>https://snayp.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on snayp</description>
-    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
-    <language>ru</language>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://snayp.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://snayp.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>snayp</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snayp.github.io/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://snayp.github.io/talk/</link>
+    </image>
     
     <item>
       <title>Coding and Analyzing Qualitative Data</title>
       <link>https://snayp.github.io/talk/coding/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      
       <guid>https://snayp.github.io/talk/coding/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
@@ -32,7 +32,6 @@
       <title>Qualitative Research Summer Intensive</title>
       <link>https://snayp.github.io/talk/qualitative/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      
       <guid>https://snayp.github.io/talk/qualitative/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
@@ -49,7 +48,6 @@
       <title>Synthesizing Qualitative Data</title>
       <link>https://snayp.github.io/talk/synthesizing/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      
       <guid>https://snayp.github.io/talk/synthesizing/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
