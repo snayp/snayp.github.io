@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en-us">
 
 <head>
 
@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="тестировщик">
+  <meta name="description" content="инженер качества">
 
   
-  <link rel="alternate" hreflang="ru" href="https://snayp.github.io/categories/">
+  <link rel="alternate" hreflang="en-us" href="https://snayp.github.io/categories/">
 
   
 
@@ -39,7 +39,10 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="#fc6f5c">
+  
+
+  
   
 
   
@@ -69,8 +72,110 @@
     
 
     
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/2.9.0/instantsearch.min.css" integrity="sha256-ZtmLe16p4jS4/2wPwwH6NzJt460SJzgLmhKrYo5yn7g=" crossorigin="anonymous">
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/2.10.2/instantsearch-theme-algolia.min.css" integrity="sha256-uL8LUd3zkI/lXvc/Hv/oOu8ld6RJcOZiUY/8c+I+3/o=" crossorigin="anonymous">
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
     
 
   
@@ -78,7 +183,7 @@
   
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=B612+Mono:400,700%7COrbitron:400,700&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700%7CNunito%7CRoboto+Mono%7CUbuntu&display=swap&subset=cyrillic,cyrillic-ext">
   
 
   
@@ -96,7 +201,7 @@
 
 
   
-  <link rel="alternate" href="/categories/index.xml" type="application/rss+xml" title="snayp">
+  <link rel="alternate" href="/categories/index.xml" type="application/rss+xml" title="QA">
   
 
   <link rel="manifest" href="/index.webmanifest">
@@ -118,11 +223,11 @@
   <meta property="twitter:site" content="@agileorange">
   <meta property="twitter:creator" content="@agileorange">
   
-  <meta property="og:site_name" content="snayp">
+  <meta property="og:site_name" content="QA">
   <meta property="og:url" content="https://snayp.github.io/categories/">
-  <meta property="og:title" content="Categories | snayp">
-  <meta property="og:description" content="тестировщик"><meta property="og:image" content="https://snayp.github.io/img/icon-192.png">
-  <meta property="twitter:image" content="https://snayp.github.io/img/icon-192.png"><meta property="og:locale" content="ru">
+  <meta property="og:title" content="Categories | QA">
+  <meta property="og:description" content="инженер качества"><meta property="og:image" content="https://snayp.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://snayp.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
   
@@ -141,12 +246,12 @@
     window.cookieconsent.initialise({
       "palette": {
         "popup": {
-          "background": "#2962ff",
+          "background": "#fc6f5c",
           "text": "#fff"
         },
         "button": {
           "background": "#fff",
-          "text": "#2962ff"
+          "text": "#fc6f5c"
         }
       },
       "theme": "classic",
@@ -154,7 +259,7 @@
         "message": "Для комфорной навигации на этом сайте используются куки (cookies).",
         "dismiss": "Понял!",
         "link": "Узнать больше",
-        "href": "https://cookies.insites.com"
+        "href": "/privacy/"
       }
     })});
 </script>
@@ -167,7 +272,7 @@
 
 
 
-  <title>Categories | snayp</title>
+  <title>Categories | QA</title>
 
 </head>
 
@@ -188,7 +293,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Поиск ..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -210,10 +316,6 @@
   <div class="container">
 
     
-    <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">snayp</a>
-    </div>
-    
 
     
     <button type="button" class="navbar-toggler" data-toggle="collapse"
@@ -223,14 +325,10 @@
     
 
     
-    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">snayp</a>
-    </div>
-    
 
     
     
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
       <ul class="navbar-nav d-md-inline-flex">
@@ -279,74 +377,9 @@
         
         
         
-          
-          
-          
-            
-          
-          
-        
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>блог</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>хобби проекты</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#publications"><span>статьи</span></a>
+          <a class="nav-link " href="/post"><span>блог</span></a>
         </li>
 
         
@@ -368,7 +401,51 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/courses/"><span>переводы</span></a>
+          <a class="nav-link " href="/project"><span>хобби проекты</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication"><span>статьи</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/talk"><span>переводы</span></a>
         </li>
 
         
@@ -445,9 +522,6 @@
 
     
     
-
-    
-    
     
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
@@ -462,8 +536,6 @@
         
       
 
-      
-      
     
 
     
@@ -497,40 +569,29 @@
 
     
     
-    <script id="search-hit-algolia-template" type="text/html">
-      <div class="search-hit">
-        <div class="search-hit-content">
-          <div class="search-hit-name">
-            <a href="{{relpermalink}}">{{{_highlightResult.title.value}}}</a>
-          </div>
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
           <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{{_highlightResult.summary.value}}}</p>
+          <p class="search-hit-description">{{snippet}}</p>
         </div>
+      </div>
       </div>
     </script>
     
 
     
     
-
-    
-    
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/2.10.2/instantsearch.min.js" integrity="sha256-gFCtPk/sonctyfwYOgjrPoWApQ0rqB6ezBBZ7p32yGc=" crossorigin="anonymous"></script>
-    
-    <script>
-      const algoliaConfig = {
-        appId: "",
-        apiKey: "",
-        indexName: "",
-        poweredBy:  false 
-      };
-    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
     
 
     
     
-    <script id="dsq-count-scr" src="https://disqus_uwXgz93efn.disqus.com/count.js" async></script>
+
+    
     
 
     
@@ -547,7 +608,7 @@
     
     
     
-    <script src="/js/academic.min.7629ad1701f3d76a591ab4c7fa5739e1.js"></script>
+    <script src="/js/academic.min.db24ae33cae58cf229cb4355bed11dfd.js"></script>
 
     
 
@@ -561,9 +622,19 @@
   <div class="container">
     <footer class="site-footer">
   
+  <p class="powered-by">
+    
+      <a href="/privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="/terms/">Terms</a>
+    
+  </p>
+  
 
   <p class="powered-by">
-    snayp &middot; 
+    
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

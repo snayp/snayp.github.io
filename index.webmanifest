@@ -1,9 +1,9 @@
 {
-  "name": "snayp",
-  "short_name": "snayp",
-  "lang": "ru",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "name": "QA",
+  "short_name": "QA",
+  "lang": "",
+  "theme_color": "#fc6f5c",
+  "background_color": "#fc6f5c",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
