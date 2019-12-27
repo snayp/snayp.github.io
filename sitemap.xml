@@ -113,12 +113,17 @@
   </url>
   
   <url>
-    <loc>https://snayp.github.io/privacy.en/</loc>
+    <loc>https://snayp.github.io/en/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snayp.github.io/terms.en/</loc>
+    <loc>https://snayp.github.io/en/privacy.en/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
