@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://snayp.github.io/talk/coding/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://snayp.github.io/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snayp.github.io/</loc>
+    <loc>https://snayp.github.io/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/talk/coding/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
@@ -23,13 +33,33 @@
   </url>
   
   <url>
+    <loc>https://snayp.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://snayp.github.io/talk/synthesizing/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://snayp.github.io/authors/snayp/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-27T14:31:44+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/post/american-dream-bullshit-workaholism/</loc>
+    <lastmod>2019-12-27T14:31:44+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/authors/</loc>
+    <lastmod>2019-12-27T14:31:44+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/post/</loc>
+    <lastmod>2019-12-27T14:31:44+03:00</lastmod>
   </url>
   
   <url>
@@ -40,11 +70,6 @@
   <url>
     <loc>https://snayp.github.io/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -73,11 +98,6 @@
   </url>
   
   <url>
-    <loc>https://snayp.github.io/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://snayp.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -89,11 +109,16 @@
   
   <url>
     <loc>https://snayp.github.io/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/privacy.en/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snayp.github.io/terms/</loc>
+    <loc>https://snayp.github.io/terms.en/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
@@ -199,6 +224,10 @@
   
   <url>
     <loc>https://snayp.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/courses/</loc>
   </url>
   
 </urlset>

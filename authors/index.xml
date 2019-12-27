@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | QA</title>
+    <title>Authors | snayp</title>
     <link>https://snayp.github.io/authors/</link>
       <atom:link href="https://snayp.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>Весь предоставленный материал сайта - интеллектуальная собственность автора. © 2019</copyright><lastBuildDate>Fri, 27 Dec 2019 14:31:44 +0300</lastBuildDate>
     <image>
       <url>https://snayp.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,10 +15,16 @@
     <item>
       <title></title>
       <link>https://snayp.github.io/authors/snayp/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Dec 2019 14:31:44 +0300</pubDate>
       <guid>https://snayp.github.io/authors/snayp/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;p&gt;Добиваюсь высочайшего качества, как самого ПО, так и сопутствующих процессов. Тестировал финансовые системы в банках и телекоме. В стартапах организовывал процесс выпуска релизов, а так же руководил отделом качества, разрабатывал и внедрял комплексную систему мониторинга и тестирования.
+Современный бизнес умирает, если не имеет возможность быстро предоставить пользователям качественное решение.
+В этой ситуации тестирование - это уже не просто поиск ошибок, но комплекс мер, способных быстро оценить риски и помочь создать WOW продукт, опережающий ожидания пользователей.&lt;/p&gt;
+&lt;p&gt;Идея создать блог, в котором записывать, больше для себя, на память, различные технические вещи, возникла пару лет назад, но постоянно откладывалась.
+При последнем поиске работы, неприятно удивился, что при стремительном развитии инструментов и подходов для обеспечения качества, на отечественном рынке до сих пор осталось
+устаревшее отношение к тестированию, к процессу обеспечения качества и к роли тестировщика в команде.&lt;/p&gt;
+&lt;p&gt;Молчать, в этой ситуации - не профессионально. Опыта накопилось достаточно, как хорошего, так и плохого. Надеюсь, что мои успехи и ошибки, помогут людям в аналогичной ситуации.&lt;/p&gt;
+&lt;p&gt;Все ниже изложенное - личное мнение автора и не претендует считаться объективной истоной.&lt;/p&gt;
 </description>
     </item>
     
