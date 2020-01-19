@@ -5,12 +5,20 @@
     <link>https://snayp.github.io/categories/</link>
       <atom:link href="https://snayp.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>Все права защищены [snayp](https://github.com/snayp) © 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>Все права защищены [snayp](https://github.com/snayp) © 2020</copyright><lastBuildDate>Fri, 17 Jan 2020 23:04:54 +0000</lastBuildDate>
     <image>
       <url>https://snayp.github.io/img/icon-192.png</url>
       <title>Categories</title>
       <link>https://snayp.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>quality</title>
+      <link>https://snayp.github.io/categories/quality/</link>
+      <pubDate>Fri, 17 Jan 2020 23:04:54 +0000</pubDate>
+      <guid>https://snayp.github.io/categories/quality/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

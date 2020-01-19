@@ -3,6 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://snayp.github.io/en/post/</loc>
+    <lastmod>2020-01-17T23:04:54+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://snayp.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snayp.github.io/en/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/en/</loc>
+    <lastmod>2020-01-17T23:04:54+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://snayp.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snayp.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/en/post/test/</loc>
+    <lastmod>2020-01-17T23:04:54+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://snayp.github.io/post/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snayp.github.io/en/post/test/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/en/post/american-dream-bullshit-workaholism/</loc>
+    <lastmod>2019-12-27T14:31:44+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://snayp.github.io/post/american-dream-bullshit-workaholism/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snayp.github.io/en/post/american-dream-bullshit-workaholism/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/en/post/jupyter/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://snayp.github.io/post/jupyter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snayp.github.io/en/post/jupyter/"
+                />
+  </url>
+  
+  <url>
     <loc>https://snayp.github.io/en/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -18,17 +93,77 @@
   </url>
   
   <url>
-    <loc>https://snayp.github.io/en/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>https://snayp.github.io/en/post/snail/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://snayp.github.io/"
+                href="https://snayp.github.io/post/snail/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://snayp.github.io/en/"
+                href="https://snayp.github.io/en/post/snail/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/en/tags/academia/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://snayp.github.io/tags/academia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snayp.github.io/en/tags/academia/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/en/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://snayp.github.io/post/getting-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snayp.github.io/en/post/getting-started/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/en/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://snayp.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snayp.github.io/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/en/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://snayp.github.io/tags/%D0%B1%D0%BB%D0%BE%D0%B3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snayp.github.io/en/tags/%D0%B1%D0%BB%D0%BE%D0%B3/"
                 />
   </url>
   
@@ -71,34 +206,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://snayp.github.io/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/en/publication_types/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://snayp.github.io/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://snayp.github.io/en/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://snayp.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://snayp.github.io/en/tags/"
                 />
   </url>
   
