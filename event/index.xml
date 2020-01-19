@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Интересное рядом | snayp</title>
+    <title>Интересное вокруг | snayp</title>
     <link>https://snayp.github.io/event/</link>
       <atom:link href="https://snayp.github.io/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Интересное рядом</description>
+    <description>Интересное вокруг</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>Все права защищены [snayp](https://github.com/snayp) © 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snayp.github.io/img/icon-192.png</url>
-      <title>Интересное рядом</title>
+      <title>Интересное вокруг</title>
       <link>https://snayp.github.io/event/</link>
     </image>
     
