@@ -48,11 +48,6 @@
   </url>
   
   <url>
-    <loc>https://snayp.github.io/post/</loc>
-    <lastmod>2020-01-17T23:04:54+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://snayp.github.io/tags/allure/</loc>
     <lastmod>2020-01-17T23:04:54+00:00</lastmod>
   </url>
@@ -114,6 +109,11 @@
   
   <url>
     <loc>https://snayp.github.io/post/test/</loc>
+    <lastmod>2020-01-17T23:04:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/post/</loc>
     <lastmod>2020-01-17T23:04:54+00:00</lastmod>
   </url>
   
@@ -183,17 +183,12 @@
   </url>
   
   <url>
-    <loc>https://snayp.github.io/tags/quality/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/tags/shift-left/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://snayp.github.io/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
