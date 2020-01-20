@@ -48,6 +48,11 @@
   </url>
   
   <url>
+    <loc>https://snayp.github.io/post/</loc>
+    <lastmod>2020-01-17T23:04:54+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://snayp.github.io/tags/allure/</loc>
     <lastmod>2020-01-17T23:04:54+00:00</lastmod>
   </url>
@@ -80,11 +85,6 @@
                 hreflang="ru"
                 href="https://snayp.github.io/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/post/</loc>
-    <lastmod>2020-01-17T23:04:54+00:00</lastmod>
   </url>
   
   <url>
