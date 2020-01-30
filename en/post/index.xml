@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>блог впечатлительного тестировщика | snayp</title>
+    <link>https://snayp.github.io/en/post/</link>
+      <atom:link href="https://snayp.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>блог впечатлительного тестировщика</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Fri, 17 Jan 2020 23:04:54 +0000</lastBuildDate>
+    <image>
+      <url>https://snayp.github.io/img/icon-192.png</url>
+      <title>блог впечатлительного тестировщика</title>
+      <link>https://snayp.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>Hugo - генератор статических сайтов</title>
+      <link>https://snayp.github.io/en/post/intro/</link>
+      <pubDate>Fri, 17 Jan 2020 23:04:54 +0000</pubDate>
+      <guid>https://snayp.github.io/en/post/intro/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;hugo&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Build your website.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;hugo serve -w&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;View your website.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>American Dream Bullshit Workaholism</title>
+      <link>https://snayp.github.io/en/post/american-dream-bullshit-workaholism/</link>
+      <pubDate>Fri, 27 Dec 2019 14:31:44 +0300</pubDate>
+      <guid>https://snayp.github.io/en/post/american-dream-bullshit-workaholism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with academia</title>
+      <link>https://snayp.github.io/en/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://snayp.github.io/en/post/jupyter/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;./academia_0_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>academia: the website builder for Hugo</title>
+      <link>https://snayp.github.io/en/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://snayp.github.io/en/post/getting-started/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Create a free website with academia using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
