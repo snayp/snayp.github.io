@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>качество | snayp</title>
+    <link>https://snayp.github.io/ru/tags/%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE/</link>
+      <atom:link href="https://snayp.github.io/ru/tags/%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE/index.xml" rel="self" type="application/rss+xml" />
+    <description>качество</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Fri, 27 Dec 2019 14:31:44 +0300</lastBuildDate>
+    <image>
+      <url>https://snayp.github.io/img/icon-192.png</url>
+      <title>качество</title>
+      <link>https://snayp.github.io/ru/tags/%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE/</link>
+    </image>
+    
+    <item>
+      <title>American Dream Bullshit Workaholism</title>
+      <link>https://snayp.github.io/ru/%D0%B1%D0%BB%D0%BE%D0%B3/american-dream-bullshit-workaholism/</link>
+      <pubDate>Fri, 27 Dec 2019 14:31:44 +0300</pubDate>
+      <guid>https://snayp.github.io/ru/%D0%B1%D0%BB%D0%BE%D0%B3/american-dream-bullshit-workaholism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academia: the website builder for Hugo</title>
+      <link>https://snayp.github.io/ru/%D0%B1%D0%BB%D0%BE%D0%B3/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://snayp.github.io/ru/%D0%B1%D0%BB%D0%BE%D0%B3/getting-started/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Create a free website with academia using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

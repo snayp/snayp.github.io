@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software | snayp</title>
+    <link>https://snayp.github.io/ru/categories/software/</link>
+      <atom:link href="https://snayp.github.io/ru/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>software</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snayp.github.io/img/icon-192.png</url>
+      <title>software</title>
+      <link>https://snayp.github.io/ru/categories/software/</link>
+    </image>
+    
+    <item>
+      <title>Display Jupyter Notebooks with academia</title>
+      <link>https://snayp.github.io/ru/%D0%B1%D0%BB%D0%BE%D0%B3/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://snayp.github.io/ru/%D0%B1%D0%BB%D0%BE%D0%B3/jupyter/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;./academia_0_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
