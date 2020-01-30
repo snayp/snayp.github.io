@@ -14,32 +14,6 @@
     
     <item>
       <title>Hugo - генератор статических сайтов</title>
-      <link>https://snayp.github.io/en/post/intro/</link>
-      <pubDate>Fri, 17 Jan 2020 23:04:54 +0000</pubDate>
-      <guid>https://snayp.github.io/en/post/intro/</guid>
-      <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Command&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;hugo&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;Build your website.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;hugo serve -w&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;View your website.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hugo - генератор статических сайтов</title>
       <link>https://snayp.github.io/post/intro/</link>
       <pubDate>Fri, 17 Jan 2020 23:04:54 +0000</pubDate>
       <guid>https://snayp.github.io/post/intro/</guid>
@@ -66,30 +40,10 @@
     
     <item>
       <title>American Dream Bullshit Workaholism</title>
-      <link>https://snayp.github.io/en/post/american-dream-bullshit-workaholism/</link>
-      <pubDate>Fri, 27 Dec 2019 14:31:44 +0300</pubDate>
-      <guid>https://snayp.github.io/en/post/american-dream-bullshit-workaholism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>American Dream Bullshit Workaholism</title>
       <link>https://snayp.github.io/post/american-dream-bullshit-workaholism/</link>
       <pubDate>Fri, 27 Dec 2019 14:31:44 +0300</pubDate>
       <guid>https://snayp.github.io/post/american-dream-bullshit-workaholism/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with academia</title>
-      <link>https://snayp.github.io/en/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://snayp.github.io/en/post/jupyter/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./academia_0_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -106,9 +60,9 @@ Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-T
     
     <item>
       <title>A Study of Snail Behavior</title>
-      <link>https://snayp.github.io/en/post/snail/</link>
+      <link>https://snayp.github.io/post/snail/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://snayp.github.io/en/post/snail/</guid>
+      <guid>https://snayp.github.io/post/snail/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with academia using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;academia comes with &lt;strong&gt;day (light) and night (dark) mode&lt;/strong&gt; built-in. Click the sun/moon icon in the top right of the &lt;a href=&#34;https://academia-demo.netlify.com/&#34;&gt;Demo&lt;/a&gt; to see it in action!&lt;/p&gt;
@@ -140,8 +94,8 @@ Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-T
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://snayp.github.io/en/post/snail/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img data-src=&#34;https://snayp.github.io/en/post/snail/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://snayp.github.io/post/snail/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
+  &lt;img data-src=&#34;https://snayp.github.io/post/snail/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -153,8 +107,8 @@ Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-T
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://snayp.github.io/en/post/snail/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img data-src=&#34;https://snayp.github.io/en/post/snail/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://snayp.github.io/post/snail/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
+  &lt;img data-src=&#34;https://snayp.github.io/post/snail/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -166,8 +120,8 @@ Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-T
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://snayp.github.io/en/post/snail/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img data-src=&#34;https://snayp.github.io/en/post/snail/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://snayp.github.io/post/snail/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
+  &lt;img data-src=&#34;https://snayp.github.io/post/snail/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -179,8 +133,8 @@ Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-T
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://snayp.github.io/en/post/snail/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img data-src=&#34;https://snayp.github.io/en/post/snail/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://snayp.github.io/post/snail/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
+  &lt;img data-src=&#34;https://snayp.github.io/post/snail/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -192,8 +146,8 @@ Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-T
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://snayp.github.io/en/post/snail/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img data-src=&#34;https://snayp.github.io/en/post/snail/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://snayp.github.io/post/snail/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img data-src=&#34;https://snayp.github.io/post/snail/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -205,8 +159,8 @@ Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-T
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://snayp.github.io/en/post/snail/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img data-src=&#34;https://snayp.github.io/en/post/snail/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://snayp.github.io/post/snail/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
+  &lt;img data-src=&#34;https://snayp.github.io/post/snail/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -218,8 +172,8 @@ Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-T
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://snayp.github.io/en/post/snail/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img data-src=&#34;https://snayp.github.io/en/post/snail/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://snayp.github.io/post/snail/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
+  &lt;img data-src=&#34;https://snayp.github.io/post/snail/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -231,23 +185,14 @@ Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-T
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://snayp.github.io/en/post/snail/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
-  &lt;img data-src=&#34;https://snayp.github.io/en/post/snail/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://snayp.github.io/post/snail/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
+  &lt;img data-src=&#34;https://snayp.github.io/post/snail/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
   
 &lt;/div&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academia/blob/master/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>academia: the website builder for Hugo</title>
-      <link>https://snayp.github.io/en/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://snayp.github.io/en/post/getting-started/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Create a free website with academia using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
