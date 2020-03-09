@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://snayp.github.io/ru/event/qualitative/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://snayp.github.io/%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F/%D1%82%D0%B5%D1%81%D1%82/</loc>
+    <lastmod>2020-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snayp.github.io/ru/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://snayp.github.io/</loc>
+    <lastmod>2020-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,262 +18,91 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://snayp.github.io/ru/"
+                href="https://snayp.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://snayp.github.io/ru/event/synthesizing/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://snayp.github.io/%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F/</loc>
+    <lastmod>2020-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snayp.github.io/ru/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/ru/authors/snayp/</loc>
-    <lastmod>2020-01-30T14:07:29+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://snayp.github.io/en/authors/snayp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://snayp.github.io/ru/authors/snayp/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/ru/authors/</loc>
-    <lastmod>2020-01-30T14:07:29+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://snayp.github.io/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://snayp.github.io/ru/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/ru/categories/</loc>
-    <lastmod>2020-01-30T14:07:29+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://snayp.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://snayp.github.io/ru/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/ru/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%B0%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC-yandex-tunk-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8-web/</loc>
+    <loc>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%B0%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC-yandex-tunk-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8-web/</loc>
     <lastmod>2020-01-30T14:07:29+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snayp.github.io/ru/%D0%B1%D0%BB%D0%BE%D0%B3/</loc>
+    <loc>https://snayp.github.io/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8/</loc>
     <lastmod>2020-01-30T14:07:29+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snayp.github.io/ru/categories/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0/</loc>
+    <loc>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/</loc>
     <lastmod>2020-01-30T14:07:29+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snayp.github.io/ru/%D0%B1%D0%BB%D0%BE%D0%B3/intro/</loc>
-    <lastmod>2020-01-17T23:04:54+00:00</lastmod>
+    <loc>https://snayp.github.io/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8/%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0/</loc>
+    <lastmod>2020-01-30T14:07:29+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snayp.github.io/ru/tags/qa/</loc>
-    <lastmod>2020-01-17T23:04:54+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://snayp.github.io/en/tags/qa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://snayp.github.io/ru/tags/qa/"
-                />
+    <loc>https://snayp.github.io/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</loc>
+    <lastmod>2020-01-30T14:07:29+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snayp.github.io/ru/tags/</loc>
-    <lastmod>2020-01-17T23:04:54+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://snayp.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://snayp.github.io/ru/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/ru/tags/%D0%B8%D1%82-%D0%B1%D0%BB%D0%BE%D0%B3/</loc>
-    <lastmod>2020-01-17T23:04:54+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://snayp.github.io/en/tags/%D0%B8%D1%82-%D0%B1%D0%BB%D0%BE%D0%B3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://snayp.github.io/ru/tags/%D0%B8%D1%82-%D0%B1%D0%BB%D0%BE%D0%B3/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/ru/categories/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</loc>
-    <lastmod>2020-01-17T23:04:54+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://snayp.github.io/en/categories/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://snayp.github.io/ru/categories/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/ru/event/somatik-fest-kpd/</loc>
+    <loc>https://snayp.github.io/%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F/%D1%81%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%BA-%D1%84%D0%B5%D1%81%D1%82-%D0%BA%D0%BF%D0%B4/</loc>
     <lastmod>2019-12-28T23:55:00+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snayp.github.io/ru/%D0%B1%D0%BB%D0%BE%D0%B3/american-dream-bullshit-workaholism/</loc>
-    <lastmod>2019-12-27T14:31:44+03:00</lastmod>
+    <loc>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snayp.github.io/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</loc>
-    <lastmod>2019-12-27T14:31:44+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://snayp.github.io/en/tags/%D0%B1%D0%BB%D0%BE%D0%B3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://snayp.github.io/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/"
-                />
+    <loc>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%BA%D0%B0%D0%BA-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snayp.github.io/ru/tags/%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE/</loc>
-    <lastmod>2019-12-27T14:31:44+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://snayp.github.io/en/tags/%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://snayp.github.io/ru/tags/%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/ru/%D0%B1%D0%BB%D0%BE%D0%B3/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/ru/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/ru/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/ru/categories/software/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://snayp.github.io/en/categories/software/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://snayp.github.io/ru/categories/software/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/ru/tags/%D1%82%D0%B5%D1%81%D1%82/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://snayp.github.io/en/tags/%D1%82%D0%B5%D1%81%D1%82/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://snayp.github.io/ru/tags/%D1%82%D0%B5%D1%81%D1%82/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/ru/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://snayp.github.io/en/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://snayp.github.io/ru/privacy/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/ru/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/ru/%D0%B1%D0%BB%D0%BE%D0%B3/snail/</loc>
+    <loc>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B8-%D0%BF%D0%BE%D1%81%D1%82/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snayp.github.io/ru/%D0%B1%D0%BB%D0%BE%D0%B3/getting-started/</loc>
+    <loc>https://snayp.github.io/%D1%82%D0%B5%D0%BC%D1%8B/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snayp.github.io/ru/event/coding/</loc>
+    <loc>https://snayp.github.io/%D1%82%D0%B5%D0%BC%D1%8B/%D0%B1%D0%BB%D0%BE%D0%B3/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/%D1%82%D0%B5%D0%BC%D1%8B/%D0%B8%D0%BD%D1%82%D1%80%D0%BE/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8/%D1%81%D1%82%D0%B0%D1%80%D1%82/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/%D0%B0%D0%B2%D1%82%D0%BE%D1%80/snayp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/%D0%B0%D0%B2%D1%82%D0%BE%D1%80/</loc>
   </url>
   
 </urlset>
