@@ -3,14 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://snayp.github.io/en/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://snayp.github.io/en/categories/</loc>
-  </url>
-  
-  <url>
     <loc>https://snayp.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
@@ -25,7 +17,15 @@
   </url>
   
   <url>
-    <loc>https://snayp.github.io/en/tags/</loc>
+    <loc>https://snayp.github.io/en/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/en/category/</loc>
+  </url>
+  
+  <url>
+    <loc>https://snayp.github.io/en/tag/</loc>
   </url>
   
 </urlset>

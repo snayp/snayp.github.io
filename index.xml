@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>snayp</title>
+    <title>Блог Снайпера</title>
     <link>https://snayp.github.io/</link>
       <atom:link href="https://snayp.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>snayp</description>
+    <description>Блог Снайпера</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>snayp</title>
+      <title>Блог Снайпера</title>
       <link>https://snayp.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://snayp.github.io/%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F/%D1%82%D0%B5%D1%81%D1%82/</link>
+      <link>https://snayp.github.io/%D0%B0%D1%84%D0%B8%D1%88%D0%B0/%D1%82%D0%B5%D1%81%D1%82/</link>
       <pubDate>Mon, 01 Jun 2020 13:00:00 +0000</pubDate>
-      <guid>https://snayp.github.io/%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F/%D1%82%D0%B5%D1%81%D1%82/</guid>
+      <guid>https://snayp.github.io/%D0%B0%D1%84%D0%B8%D1%88%D0%B0/%D1%82%D0%B5%D1%81%D1%82/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -44,9 +44,9 @@
     
     <item>
       <title>Somatik Fest Kpd</title>
-      <link>https://snayp.github.io/%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F/%D1%81%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%BA-%D1%84%D0%B5%D1%81%D1%82-%D0%BA%D0%BF%D0%B4/</link>
+      <link>https://snayp.github.io/%D0%B0%D1%84%D0%B8%D1%88%D0%B0/%D1%81%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%BA-%D1%84%D0%B5%D1%81%D1%82-%D0%BA%D0%BF%D0%B4/</link>
       <pubDate>Sat, 28 Dec 2019 23:55:00 +0300</pubDate>
-      <guid>https://snayp.github.io/%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F/%D1%81%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%BA-%D1%84%D0%B5%D1%81%D1%82-%D0%BA%D0%BF%D0%B4/</guid>
+      <guid>https://snayp.github.io/%D0%B0%D1%84%D0%B8%D1%88%D0%B0/%D1%81%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%BA-%D1%84%D0%B5%D1%81%D1%82-%D0%BA%D0%BF%D0%B4/</guid>
       <description></description>
     </item>
     
@@ -66,9 +66,9 @@
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://snayp.github.io/%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</guid>
       <description>&lt;p&gt;Автор сайта snayp.github.io обязуется сохранять вашу конфиденциальность в Интернете и не удаляем внимание охране предоставленных вами данных. Политика конфиденциальности основана на требованиях Общего регламента о защите персональных данных Европейского Союза (GDPR). Цели, в которых могут собираться персональные данные: улучшение работы сервиса, осуществление контактов с посетителями данного сайта, новостная рассылка по электронной почте, предоставление информации, которую запрашивал пользователь, а так же для указанных ниже действий.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Сбор и использование персональных данных&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;сбор-и-использование-персональных-данных&#34;&gt;Сбор и использование персональных данных&lt;/h2&gt;
 &lt;p&gt;Могут собираться и использоваться ваши персональные данные только в случае вашего добровольного согласия. При согласии с этим вы разрешаете нам собирать и использовать следующие данные: электронная почта, данные аккаунтов в социальных сетях. Сбор и обработка ваших данных проводится соответствии с законами, действующими на территории Европейского Союза и в государстве РФ.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Хранение данных, изменение и удаление&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;хранение-данных-изменение-и-удаление&#34;&gt;Хранение данных, изменение и удаление&lt;/h2&gt;
 &lt;p&gt;Пользователь, предоставивший свои персональные данные имеет право на их изменение и удаление, а так же на отзыв своего согласия с их использованием. Срок, в течение которого будут храниться ваши персональные данные: время, необходимое для использования данных для основной деятельности сайта. При завершении использования ваших данных система удаляет их. Для доступа к своим персональным данным вы можете связаться с автором. Могут передаваться ваши личные данные третьей стороне только с вашего добровольного согласия, если они были переданы, то изменение данных в других организациях, не связанных с нами, не возможно.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Предоставление информации детьми&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Если Вы являетесь родителем или опекуном, и вы знаете, что ваши дети предоставили нам свои личные данные без Вашего согласия, свяжитесь с нами: &lt;a href=&#34;mailto:snayp@github.io&#34;&gt;snayp@github.io&lt;/a&gt;. На нашем сервисе запрещено оставлять личные данные несовершеннолетних без согласия родителей или опекунов.&lt;/p&gt;

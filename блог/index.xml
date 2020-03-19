@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>записки впечатлительного тестировщика | snayp</title>
+    <title>Записки впечатлительного QA | Блог Снайпера</title>
     <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
       <atom:link href="https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/index.xml" rel="self" type="application/rss+xml" />
-    <description>записки впечатлительного тестировщика</description>
+    <description>Записки впечатлительного QA</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Thu, 30 Jan 2020 14:07:29 +0300</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>записки впечатлительного тестировщика</title>
+      <title>Записки впечатлительного QA</title>
       <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
     </image>
     
