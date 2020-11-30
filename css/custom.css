@@ -1,4 +1,6 @@
-
+.small {
+  font-size: 0.8rem;
+}
 #preloader {
     position: fixed;
     top: 0;
