@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://snayp.github.io/sitemap.xml
+Disallow: /

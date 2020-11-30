@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 30 Nov 2020 05:10:51 +0300</lastBuildDate><atom:link href="https://snayp.github.io/ru/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>BDD</title>
+      <link>https://snayp.github.io/ru/%D1%82%D0%B5%D0%BC%D0%B0/bdd/</link>
+      <pubDate>Mon, 30 Nov 2020 05:10:51 +0300</pubDate>
+      
+      <guid>https://snayp.github.io/ru/%D1%82%D0%B5%D0%BC%D0%B0/bdd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>cucumber</title>
       <link>https://snayp.github.io/ru/%D1%82%D0%B5%D0%BC%D0%B0/cucumber/</link>
       <pubDate>Mon, 30 Nov 2020 05:10:51 +0300</pubDate>
