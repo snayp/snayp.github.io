@@ -260,8 +260,8 @@ h4:after {
   background-color: rgba(236, 231, 231, 0.2);
 }
 .header-logo {
-  font-size:25px;
-  font-weight:700;
+  font-size:15px;
+  font-weight:600;
   text-transform: uppercase;
 }
 .header-logo a {
