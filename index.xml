@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dsh блог</title>
+    <link>https://example.com/</link>
+    <description>Личный блог dsh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Политика конфиденциальности</title>
+        <link>https://example.com/%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</link>
+        <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</guid>
+        <description>Политика в отношении обработки персональных данных
+  Общие положения Настоящая политика обработки персональных данных составлена в соответствии с требованиями Федерального закона от 27.07.2006. №152-ФЗ «О персональных данных» и определяет порядок обработки персональных данных и меры по обеспечению безопасности персональных данных, предпринимаемые dsh (далее – Оператор). 1.1. Оператор ставит своей важнейшей целью и условием осуществления своей деятельности соблюдение прав и свобод человека и гражданина при обработке его персональных данных, в том числе защиты прав на неприкосновенность частной жизни, личную и семейную тайну.</description>
+      </item>
+    
+      <item>
+        <title></title>
+        <link>https://example.com/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/archives/</guid>
+        <description></description>
+      </item>
+    
+      <item>
+        <title>Markdown Syntax Guide</title>
+        <link>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/markdown-syntax/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/markdown-syntax/</guid>
+        <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      </item>
+    
+      <item>
+        <title>Rich Content</title>
+        <link>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/rich-content/</link>
+        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/rich-content/</guid>
+        <description>A brief description of Hugo Shortcodes</description>
+      </item>
+    
+      <item>
+        <title>Placeholder Text</title>
+        <link>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/placeholder-text/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/placeholder-text/</guid>
+        <description>Lorem Ipsum Dolor Si Amet</description>
+      </item>
+    
+      <item>
+        <title>Math Typesetting</title>
+        <link>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/math-typesetting/</link>
+        <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/math-typesetting/</guid>
+        <description>A brief guide to setup KaTeX</description>
+      </item>
+    
+      <item>
+        <title>Emoji Support</title>
+        <link>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/emoji-support/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/emoji-support/</guid>
+        <description>Guide to emoji usage in Hugo</description>
+      </item>
+    
+      <item>
+        <title>About</title>
+        <link>https://example.com/about/</link>
+        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/about/</guid>
+        <description>Hugo, the world's fastest framework for building websites</description>
+      </item>
+    
+      <item>
+        <title>Contact</title>
+        <link>https://example.com/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B/</guid>
+        <description>See how to contact me.</description>
+      </item>
+    
+      <item>
+        <title>Lorem Ipsum</title>
+        <link>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/lorem-ipsum/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/lorem-ipsum/</guid>
+        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus enim quis eros vulputate cursus.</description>
+      </item>
+    
+      <item>
+        <title>More KaTeX</title>
+        <link>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/more-katex/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/more-katex/</guid>
+        <description>Brief explanation of mhchem, copy-tex, etc.</description>
+      </item>
+    
+      <item>
+        <title>Read Me</title>
+        <link>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/readme/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/readme/</guid>
+        <description>A copy of the README.md file.</description>
+      </item>
+    
+      <item>
+        <title>Syntax Highlighting Test</title>
+        <link>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/syntax-highlighting-test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%D0%B1%D0%BB%D0%BE%D0%B3/syntax-highlighting-test/</guid>
+        <description>A page full of code samples.</description>
+      </item>
+    
+      <item>
+        <title>Пользовательское соглашение</title>
+        <link>https://example.com/%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5-%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5-%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
+        <description>Настоящее Соглашение определяет условия использования Пользователями материалов и сервисов сайта https://snayp.github.io (далее — «Сайт»).
+1.Общие условия
+1.1. Использование материалов и сервисов Сайта регулируется нормами действующего законодательства Российской Федерации.
+1.2. Настоящее Соглашение является публичной офертой. Получая доступ к материалам Сайта Пользователь считается присоединившимся к настоящему Соглашению.
+1.3. Администрация Сайта вправе в любое время в одностороннем порядке изменять условия настоящего Соглашения. Такие изменения вступают в силу по истечении 3 (Трех) дней с момента размещения новой версии Соглашения на сайте.</description>
+      </item>
+    
+  </channel>
+</rss>
