@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>блог</title>
-    <link>https://dsh.github.io/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F/%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/</link>
+    <link>https://snayp.github.io/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F/%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/</link>
     <description>Блог о тестировании, качестве, современных онлайн технологиях и услугах, посты в котором появляются под качественную музыку, которая собиралась еще со времен аудио кассет и наконец собрана в одном месте</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
 All rights reserved.</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 05:38:27 +0300</lastBuildDate><atom:link href="https://dsh.github.io/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F/%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 05:38:27 +0300</lastBuildDate><atom:link href="https://snayp.github.io/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F/%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>Осознание BDD и первое практическо применение</title>
-        <link>https://dsh.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%BE%D1%81%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5-bdd-%D0%B8-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B5-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+        <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%BE%D1%81%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5-bdd-%D0%B8-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B5-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5/</link>
         <pubDate>Tue, 01 Dec 2020 05:38:27 +0300</pubDate>
         
-        <guid>https://dsh.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%BE%D1%81%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5-bdd-%D0%B8-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B5-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
+        <guid>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%BE%D1%81%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5-bdd-%D0%B8-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B5-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
         <description>первое применение 43c3153994a2acd76cd791be518ce572152f8709
 a01a96103e88981dfbd37b832b5a2390116b8646
 https://t.me/somatik/2231</description>
@@ -21,38 +21,38 @@ https://t.me/somatik/2231</description>
     
       <item>
         <title>Опыт использования Cucumber и BDD подхода. Часть 1</title>
-        <link>https://dsh.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%BE%D0%BF%D1%8B%D1%82-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-cucumber-%D0%B8-bdd-%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%D0%B0-%D0%BF%D1%80%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1/</link>
+        <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%BE%D0%BF%D1%8B%D1%82-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-cucumber-%D0%B8-bdd-%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%D0%B0-%D0%BF%D1%80%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1/</link>
         <pubDate>Mon, 30 Nov 2020 05:10:51 +0300</pubDate>
         
-        <guid>https://dsh.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%BE%D0%BF%D1%8B%D1%82-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-cucumber-%D0%B8-bdd-%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%D0%B0-%D0%BF%D1%80%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1/</guid>
+        <guid>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%BE%D0%BF%D1%8B%D1%82-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-cucumber-%D0%B8-bdd-%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%D0%B0-%D0%BF%D1%80%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1/</guid>
         <description>Знакомство с BDD О фреймворке Cucumber, я узнал достаточно давно, примерно 7 лет назад, когда пытался овладеть технологией Ruby on Rails. RoR подразумевает написание большого количества тестов и имеет очень развитой инструментарий для различных видов тестирования. Собственно, абрревиатуры BDD &amp;amp; TDD и какие процессы за ними кроются, я тоже узнал изучая RoR.
 При первом знакомстве, я не смог оценить по достуинству возможности предлагаемыми BDD &amp;amp; TDD методологиями и начать их применять на практике.</description>
       </item>
     
       <item>
         <title>Вступление Часть 3 Заключительная</title>
-        <link>https://dsh.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F/</link>
+        <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F/</link>
         <pubDate>Thu, 22 Aug 2019 21:38:52 +0800</pubDate>
         
-        <guid>https://dsh.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F/</guid>
+        <guid>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F/</guid>
         <description>   </description>
       </item>
     
       <item>
         <title>Вступление Часть 2 столичный опыт</title>
-        <link>https://dsh.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2/</link>
+        <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2/</link>
         <pubDate>Tue, 30 Apr 2019 05:23:30 +0000</pubDate>
         
-        <guid>https://dsh.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2/</guid>
+        <guid>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2/</guid>
         <description>Столичный этап развития карьеры тестировщика и история как я умудрился побывать музыкальным продюссером и директором уважаемых столичных арстистов</description>
       </item>
     
       <item>
         <title>Вступление часть 1 начало карьеры</title>
-        <link>https://dsh.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1/</link>
+        <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1/</link>
         <pubDate>Sat, 13 Apr 2019 01:05:40 +0000</pubDate>
         
-        <guid>https://dsh.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1/</guid>
+        <guid>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1/</guid>
         <description>История, как я не ожиданно для себя стал инженером качества заказного программного обеспечения</description>
       </item>
     

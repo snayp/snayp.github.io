@@ -2,180 +2,180 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>блог</title>
-    <link>https://dsh.github.io/tags/</link>
+    <link>https://snayp.github.io/tags/</link>
     <description>Блог о тестировании, качестве, современных онлайн технологиях и услугах, посты в котором появляются под качественную музыку, которая собиралась еще со времен аудио кассет и наконец собрана в одном месте</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
 All rights reserved.</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 05:38:27 +0300</lastBuildDate><atom:link href="https://dsh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 05:38:27 +0300</lastBuildDate><atom:link href="https://snayp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>BDD</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/bdd/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/bdd/</link>
         <pubDate>Tue, 01 Dec 2020 05:38:27 +0300</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/bdd/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/bdd/</guid>
         <description></description>
       </item>
     
       <item>
         <title>cucumber</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/cucumber/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/cucumber/</link>
         <pubDate>Mon, 30 Nov 2020 05:10:51 +0300</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/cucumber/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/cucumber/</guid>
         <description></description>
       </item>
     
       <item>
         <title>java</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/java/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/java/</link>
         <pubDate>Mon, 30 Nov 2020 05:10:51 +0300</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/java/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/java/</guid>
         <description></description>
       </item>
     
       <item>
         <title>selenium</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/selenium/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/selenium/</link>
         <pubDate>Mon, 30 Nov 2020 05:10:51 +0300</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/selenium/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/selenium/</guid>
         <description></description>
       </item>
     
       <item>
         <title>автоматизация</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/</link>
         <pubDate>Mon, 30 Nov 2020 05:10:51 +0300</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/</guid>
         <description></description>
       </item>
     
       <item>
         <title>блог</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
         <pubDate>Tue, 30 Apr 2019 05:23:30 +0000</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/%D0%B1%D0%BB%D0%BE%D0%B3/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/%D0%B1%D0%BB%D0%BE%D0%B3/</guid>
         <description></description>
       </item>
     
       <item>
         <title>EPAM</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/epam/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/epam/</link>
         <pubDate>Sat, 13 Apr 2019 01:05:40 +0000</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/epam/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/epam/</guid>
         <description></description>
       </item>
     
       <item>
         <title>Mirantis</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/mirantis/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/mirantis/</link>
         <pubDate>Sat, 13 Apr 2019 01:05:40 +0000</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/mirantis/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/mirantis/</guid>
         <description></description>
       </item>
     
       <item>
         <title>Саратов</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/%D1%81%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/%D1%81%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2/</link>
         <pubDate>Sat, 13 Apr 2019 01:05:40 +0000</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/%D1%81%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/%D1%81%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2/</guid>
         <description></description>
       </item>
     
       <item>
         <title>css</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/css/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/css/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/css/</guid>
         <description></description>
       </item>
     
       <item>
         <title>markdown</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/markdown/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/markdown/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/markdown/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/markdown/</guid>
         <description></description>
       </item>
     
       <item>
         <title>rrr</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/rrr/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/rrr/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/rrr/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/rrr/</guid>
         <description></description>
       </item>
     
       <item>
         <title>themes</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/themes/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/themes/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/themes/</guid>
         <description></description>
       </item>
     
       <item>
         <title>privacy</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/privacy/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/privacy/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/privacy/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/privacy/</guid>
         <description></description>
       </item>
     
       <item>
         <title>shortcodes</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/shortcodes/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/shortcodes/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/shortcodes/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/shortcodes/</guid>
         <description></description>
       </item>
     
       <item>
         <title>text</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/text/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/text/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/text/</guid>
         <description></description>
       </item>
     
       <item>
         <title>emoji</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/emoji/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/emoji/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/emoji/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/emoji/</guid>
         <description></description>
       </item>
     
       <item>
         <title>extra</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/extra/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/extra/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/extra/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/extra/</guid>
         <description></description>
       </item>
     
       <item>
         <title>syntax highlighting</title>
-        <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/syntax-highlighting/</link>
+        <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/syntax-highlighting/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://dsh.github.io/%D1%82%D1%8D%D0%B3/syntax-highlighting/</guid>
+        <guid>https://snayp.github.io/%D1%82%D1%8D%D0%B3/syntax-highlighting/</guid>
         <description></description>
       </item>
     

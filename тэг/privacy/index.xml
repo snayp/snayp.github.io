@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>блог</title>
-    <link>https://dsh.github.io/%D1%82%D1%8D%D0%B3/privacy/</link>
+    <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/privacy/</link>
     <description>Блог о тестировании, качестве, современных онлайн технологиях и услугах, посты в котором появляются под качественную музыку, которая собиралась еще со времен аудио кассет и наконец собрана в одном месте</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
 All rights reserved.</copyright>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://dsh.github.io/%D1%82%D1%8D%D0%B3/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://snayp.github.io/%D1%82%D1%8D%D0%B3/privacy/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>Rich Content</title>
-        <link>https://dsh.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/rich-content/</link>
+        <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/rich-content/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://dsh.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/rich-content/</guid>
+        <guid>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/rich-content/</guid>
         <description>A brief description of Hugo Shortcodes</description>
       </item>
     
