@@ -4,9 +4,7 @@
     <title>блог</title>
     <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/extra/</link>
     <description>Блог о тестировании, качестве, современных онлайн технологиях и услугах, посты в котором появляются под качественную музыку, которая собиралась еще со времен аудио кассет и наконец собрана в одном месте</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
-All rights reserved.</copyright><atom:link href="https://snayp.github.io/%D1%82%D1%8D%D0%B3/extra/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://snayp.github.io/%D1%82%D1%8D%D0%B3/extra/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>Lorem Ipsum</title>
         <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/lorem-ipsum/</link>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>блог</title>
+    <link>https://snayp.github.io/%D1%82%D1%8D%D0%B3/dj-oom/</link>
+    <description>Блог о тестировании, качестве, современных онлайн технологиях и услугах, посты в котором появляются под качественную музыку, которая собиралась еще со времен аудио кассет и наконец собрана в одном месте</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 29 Nov 2020 05:10:51 +0300</lastBuildDate><atom:link href="https://snayp.github.io/%D1%82%D1%8D%D0%B3/dj-oom/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Techno set Dj Omm</title>
+        <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/techno-set-dj-omm/</link>
+        <pubDate>Sun, 29 Nov 2020 05:10:51 +0300</pubDate>
+        
+        <guid>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/techno-set-dj-omm/</guid>
+        <description>  Dj Omm live @Asid Riot Ваня экспериментирует с техно.
+ </description>
+      </item>
+    
+  </channel>
+</rss>
