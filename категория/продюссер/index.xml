@@ -1,29 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>блог</title>
+    <title>продюссер | сельский тестер</title>
     <link>https://snayp.github.io/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F/%D0%BF%D1%80%D0%BE%D0%B4%D1%8E%D1%81%D1%81%D0%B5%D1%80/</link>
-    <description>Блог о тестировании, качестве, современных онлайн технологиях и услугах, посты в котором появляются под качественную музыку, которая собиралась еще со времен аудио кассет и наконец собрана в одном месте</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Nov 2020 05:10:51 +0300</lastBuildDate><atom:link href="https://snayp.github.io/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F/%D0%BF%D1%80%D0%BE%D0%B4%D1%8E%D1%81%D1%81%D0%B5%D1%80/index.xml" rel="self" type="application/rss+xml" />
-      <item>
-        <title>Techno set Dj Omm</title>
-        <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/techno-set-dj-omm/</link>
-        <pubDate>Sun, 29 Nov 2020 05:10:51 +0300</pubDate>
-        
-        <guid>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/techno-set-dj-omm/</guid>
-        <description>  Dj Omm live @Asid Riot Ваня экспериментирует с техно.
- </description>
-      </item>
+      <atom:link href="https://snayp.github.io/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F/%D0%BF%D1%80%D0%BE%D0%B4%D1%8E%D1%81%D1%81%D0%B5%D1%80/index.xml" rel="self" type="application/rss+xml" />
+    <description>продюссер</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><lastBuildDate>Tue, 30 Apr 2019 05:23:30 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>продюссер</title>
+      <link>https://snayp.github.io/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F/%D0%BF%D1%80%D0%BE%D0%B4%D1%8E%D1%81%D1%81%D0%B5%D1%80/</link>
+    </image>
     
-      <item>
-        <title>Вступление Часть 2 столичный опыт</title>
-        <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2/</link>
-        <pubDate>Tue, 30 Apr 2019 05:23:30 +0000</pubDate>
-        
-        <guid>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2/</guid>
-        <description>Столичный этап развития карьеры тестировщика и история как я умудрился побывать музыкальным продюссером и директором уважаемых столичных арстистов</description>
-      </item>
+    <item>
+      <title>Вступление Часть 2 столичный опыт</title>
+      <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2/</link>
+      <pubDate>Tue, 30 Apr 2019 05:23:30 +0000</pubDate>
+      <guid>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2/</guid>
+      <description>&lt;h2 id=&#34;покорение-москвы&#34;&gt;Покорение Москвы&lt;/h2&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
