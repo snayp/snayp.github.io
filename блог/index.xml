@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>сельский тестер</title>
+    <title>Записки впечатлительного QA | сельский тестер</title>
     <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
       <atom:link href="https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/index.xml" rel="self" type="application/rss+xml" />
-    <description>сельский тестер</description>
+    <description>Записки впечатлительного QA</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><lastBuildDate>Fri, 22 Jan 2021 21:50:49 +0300</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>сельский тестер</title>
+      <url>https://snayp.github.io/images/mstile-150x150_hu925f1eb09004ef6fa1eb3a268807fdd0_7989_512x512_fill_lanczos_center_2.png</url>
+      <title>Записки впечатлительного QA</title>
       <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
     </image>
     
