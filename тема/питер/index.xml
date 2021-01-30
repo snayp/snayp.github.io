@@ -38,7 +38,6 @@
 &lt;p&gt;&lt;strong&gt;Kinestetic&lt;/strong&gt; - &lt;em&gt;Corridor&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;создаст правильный настрой перед мероприятием&lt;/p&gt;
 &lt;div id=&#34;vk_playlist_-2000119969_10119969&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;https://vk.com/js/api/openapi.js?168&#34;&gt;&lt;/script&gt;
 &lt;script type=&#34;text/javascript&#34;&gt;
   (function() {
     VK.Widgets.Playlist(&#34;vk_playlist_-2000119969_10119969&#34;, &#34;-2000119969&#34;, &#34;10119969&#34;,&#39;308fc80716cbe20bfe&#39;);
