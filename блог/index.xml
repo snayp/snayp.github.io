@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Записки впечатлительного QA | сельский тестер</title>
+    <title>записки впечатлительного QA | сельский тестер</title>
     <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
       <atom:link href="https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/index.xml" rel="self" type="application/rss+xml" />
-    <description>Записки впечатлительного QA</description>
+    <description>записки впечатлительного QA</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><lastBuildDate>Sat, 30 Jan 2021 22:47:19 +0000</lastBuildDate>
     <image>
       <url>https://snayp.github.io/img/qa-blog-512x512.png</url>
-      <title>Записки впечатлительного QA</title>
+      <title>записки впечатлительного QA</title>
       <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
     </image>
     
@@ -20,34 +20,6 @@
       <description>&lt;h2 id=&#34;live-vs-студия&#34;&gt;Live vs. Студия&lt;/h2&gt;
 &lt;p&gt;&amp;lsquo;Как это часто бывает, артист может  играть десятки крышесносных лайвов&amp;rsquo;, а вот записать готовое произведение у него никак не доходят руки. Русские андеграунд музыканты, фанатики самозабвенно создающие музыку, а не примитивное непотребство для коммерции, до сих пор остаются верными панк-рок наследию 90-ых и запись студийного альбома происходит по домашнему на кухне . Не смотря на стремительное развитие инструментов для звукозаписи и их доступность на каждом углу, культура звукозаписи в стране остается на невероятно низком уровне. Для русского слушателя главным в музыке остался надрывный хриплый протест, а не мелодичность и гармоническая оригинальность. Количество реально крутых платинок записываемых в нашей стране, которые хочется пересшлушивать снова и снова и музыка не надоест даже через несколько лет, постоянно уменьшается и практически достигло 0 за последние несколько лет. Еще в 2010ом, я слышал от многих профессиональных музыкантов (помню точно был разговор с Сергеем Летовым, Ромой ВПР и Ваней Жуком), что CD-диски превратились в сувенир и утратили ценность аудио носителя. Расходовать ресурсы, на создание качественною записи, стало экономически не выгодно и осталась единственная возможность заработать музыканту - играть живые концерты. К 2015ому ситуация еще ухудшилась, полуторочасовое выступление группы из 5-7 человек с барабанами и дудками, требующее транспортировку инструментов, сопутствующего инвентаря и самих людей, стало полностью убыточным мероприятием и коллективы потихоньку распались и многие музыкантов начали выступать сольно, используя новые технологии, чтобы добиться плотного саунда в одиночку. Уютные кафехи, в которых раньше каждый вечер танцевала и веселилась любого возраста публика, опустели и в итоге исчезли как вид. Услышать пение с выразительными рифмами и не электронным тембром голоса, практически нереально ни в столице, ни в провинциальном городе. Любой ноутбук, без участия живого человека, способен несколько часов удовлетворять насущные музыкальные потребности любой компании, это привело к серьезной деградации этих самых потребностей и в результате публика стала безразлична к неживому звуку синтезатора звучащему со всех сторон. Заниматься упорными поисками определнного альбома конкретного музыкального коллектива, чтобы наконец стать счастливым обладателем раритетной копии и хранить ее в надежном месте, милениалы никогда не станут. Я сам уже несколько лет не храню ни на каких носителях никакую музыку. Хватает онлайн радио и парочки подзабитых треков, которые остались висеть на страницах в соц сетях.&lt;/p&gt;
 &lt;p&gt;Величие и уникальность исполнительского таланта и виртуозного владения инструментом было полностю уничтожено MIDI контроллером, который может гарантировать нужное звукоизвлечение и безошибочно, с компьютерной точность менять любой параметр звука, не вызывая у слушателя никакого  дискомфорта. Да, контента стало значительно больше, но красоты, присущей настоящему искусству, появляющейся блягодаря человеку, не способному одинакого испольнить музыкальное произведение. Эти, казалость бы, не значительные отставания от ровного щелчка метронома и создают уникальный груф, способный вызывать искреннюю эмоцию и глубокие переживания публики. Современные технологии позволяют программно получить аналогичный эффект и в принципе могут имитировать любые действия человека, но до сих пор единицы звуко режиссеров смогли добиться желаемого эффекта. Разумеется, выросли молодые люди, которые научились использовать программу для реализации творческой идеи, а не только жать на понравившиеся кнопки, просто не представляя как можно использовать половину настроек и кнопок.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Последний Somatik Релиз Стал Первым для Kinestetic</title>
-      <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9-somatik-%D1%80%D0%B5%D0%BB%D0%B8%D0%B7-kinestetic-corridor/</link>
-      <pubDate>Sun, 31 Jan 2021 00:34:23 +0300</pubDate>
-      <guid>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9-somatik-%D1%80%D0%B5%D0%BB%D0%B8%D0%B7-kinestetic-corridor/</guid>
-      <description>&lt;h2 id=&#34;новый-релиз-саунд-системы&#34;&gt;Новый релиз саунд системы&lt;/h2&gt;
-&lt;p&gt;Дюбютная работа Kinestetic вышла на лейбле SSS&lt;/p&gt;
-&lt;h3 id=&#34;kinestetic---_corridor_&#34;&gt;&lt;strong&gt;Kinestetic&lt;/strong&gt; - &lt;em&gt;Corridor&lt;/em&gt;&lt;/h3&gt;
-&lt;p&gt;Как это часто у нас бывает, артист может  играть десятки крышесносных лайвов, постоянно их обновлять и дорабатывать, но при этом не издавать почти совсем ничего. Раньше мы комплексовали на эту тему, но потом пришло понимание – мы процесс, а не продукт. И тем ценнее момент живых выступлений. То что происходит здесь и сейчас.&lt;/p&gt;
-&lt;p&gt;Кинестетик дебютировал в SSS ровно три года назад и вот наконец мы дождались сольный релиз.Кстати, на подходе ещё один, с чем нас всех и поздравляем.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Закрываем глаза. Делаем громко.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Om WiFi 🙏🏻&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Арт на обложке:&lt;/strong&gt;  
-&lt;a href=&#34;https://vk.com/id4350628&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;W0W1988&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Группалагерь: &lt;a href=&#34;https://vk.cc/bXlc2H&#34;&gt;https://vk.cc/bXlc2H&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Яндекс.Музыка: &lt;a href=&#34;https://vk.cc/bXlc37&#34;&gt;https://vk.cc/bXlc37&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Спотифай: &lt;a href=&#34;https://vk.cc/bXlc3V&#34;&gt;https://vk.cc/bXlc3V&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ТыТруба: &lt;a href=&#34;https://vk.cc/bXlc4E&#34;&gt;https://vk.cc/bXlc4E&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ЯблокоМузыка: &lt;a href=&#34;https://vk.cc/bXlc56&#34;&gt;https://vk.cc/bXlc56&lt;/a&gt;&lt;/p&gt;
-&lt;div id=&#34;vk_playlist_-2000119969_10119969&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34;&gt;
-  (function() {
-    VK.Widgets.Playlist(&#34;vk_playlist_-2000119969_10119969&#34;, &#34;-2000119969&#34;, &#34;10119969&#34;,&#39;308fc80716cbe20bfe&#39;);
-  }());
-&lt;/script&gt;
 </description>
     </item>
     
@@ -69,34 +41,6 @@
     </item>
     
     <item>
-      <title>ДДТ и  еще более 20 исполнителей сыграли требьют Сектор Газа</title>
-      <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%81%D0%B5%D0%BA%D1%82%D0%BE%D1%80/</link>
-      <pubDate>Sat, 26 Dec 2020 13:43:10 +0000</pubDate>
-      <guid>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%81%D0%B5%D0%BA%D1%82%D0%BE%D1%80/</guid>
-      <description>&lt;h2 id=&#34;юрий_хой&#34;&gt;Хой Жив&lt;/h2&gt;
-&lt;p&gt;Невереятно дерзкий саунд и лирика постсоветсткого мистическового колхоза, остаются ярким примером &amp;ldquo;русской народной музыки&amp;rdquo;. &lt;em&gt;Речетатив под панковский гитарный риф и скреч пластинки, читали в Воронеже, за 5 лет до до того, как это стало мейнстримом в исполнении Limp Bizkit в Лондоне.&lt;/em&gt;&lt;/p&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/hykr5-yPKq8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;br/&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/BE9CXWV1alg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;В 1997 году Артемий Троицкий в беседе с Хоем и Надеждой Бабкиной называет секторовское творчество «экстремальной неформальной народной музыкой», и Хой соглашается с таким определением своих трудов.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Юрий Юлианыч, сделал саунд, перепев Юрия Николаевича.&lt;/p&gt;
-&lt;p&gt;Модно и актуально звучит требьют Сектор Газа в 2020 году, который записало более 20 русских артистов.&lt;/p&gt;
-&lt;iframe frameborder=&#34;0&#34; style=&#34;border:none;width:100%;height:180px;&#34; width=&#34;100%&#34; height=&#34;180&#34; src=&#34;https://music.yandex.ru/iframe/#track/75099811/13169605&#34;&gt;Слушайте &lt;a href=&#39;https://music.yandex.ru/album/13169605/track/75099811&#39;&gt;Ночь перед Рождеством&lt;/a&gt; — &lt;a href=&#39;https://music.yandex.ru/artist/358612&#39;&gt;ДДТ&lt;/a&gt; на Яндекс.Музыке&lt;/iframe&gt;
-&lt;iframe frameborder=&#34;0&#34; style=&#34;border:none;width:100%;height:180px;&#34; width=&#34;100%&#34; height=&#34;180&#34; src=&#34;https://music.yandex.ru/iframe/#track/75099816/13169605&#34;&gt;Слушайте &lt;a href=&#39;https://music.yandex.ru/album/13169605/track/75099816&#39;&gt;Укус вампира&lt;/a&gt; — &lt;a href=&#39;https://music.yandex.ru/artist/6637622&#39;&gt;Чёрный Вторник&lt;/a&gt; на Яндекс.Музыке&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Редкий московский Somatic </title>
       <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/techno-somatik-leningrad/</link>
       <pubDate>Sat, 26 Dec 2020 13:43:10 +0300</pubDate>
@@ -114,7 +58,7 @@
       <description>&lt;h2 id=&#34;первое-применение&#34;&gt;первое применение&lt;/h2&gt;
 &lt;p&gt;43c3153994a2acd76cd791be518ce572152f8709&lt;/p&gt;
 &lt;p&gt;a01a96103e88981dfbd37b832b5a2390116b8646&lt;/p&gt;
-&lt;p&gt;https://t.me/somatik/2231&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://t.me/somatik/2231&#34;&gt;https://t.me/somatik/2231&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -472,95 +416,6 @@
 С уважением, DSH.&lt;/p&gt;
 &lt;p&gt;P.S. SSL так, изначально подписывался Сергей Сергеевич, профессор из Политеха, организовавший офис EPAM в Саратове, а потом уже Герман Германович ставил подпись GGN, это доцент из СГУ, благодаря усилиям которого Mirantis появился в городе. А теперь уже и я пишу под псевдонином DSH, хотя, разумеется далеко не доцент.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several 
-&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a 
-&lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;instagram-simple-shortcode&#34;&gt;Instagram Simple Shortcode&lt;/h2&gt;
-
-&lt;br&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;youtube-privacy-enhanced-shortcode&#34;&gt;YouTube Privacy Enhanced Shortcode&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/ZJthWmvUzzc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;br&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;twitter-simple-shortcode&#34;&gt;Twitter Simple Shortcode&lt;/h2&gt;
-
-
-
-
-&lt;style type=&#34;text/css&#34;&gt;
-  .twitter-tweet {
-  font: 14px/1.45 -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;,sans-serif;
-  border-left: 4px solid #2b7bb9;
-  padding-left: 1.5em;
-  color: #555;
-}
-  .twitter-tweet a {
-  color: #2b7bb9;
-  text-decoration: none;
-}
-  blockquote.twitter-tweet a:hover,
-  blockquote.twitter-tweet a:focus {
-  text-decoration: underline;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;“In addition to being more logical, asymmetry has the advantage that its complete appearance is far more optically effective than symmetry.”&lt;br&gt;— Jan Tschichold &lt;a href=&#34;https://t.co/gcv7SrhvJb&#34;&gt;pic.twitter.com/gcv7SrhvJb&lt;/a&gt;&lt;/p&gt;&amp;mdash; Graphic Design History (@DesignReviewed) &lt;a href=&#34;https://twitter.com/DesignReviewed/status/1085870671291310081?ref_src=twsrc%5Etfw&#34;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;br&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;vimeo-simple-shortcode&#34;&gt;Vimeo Simple Shortcode&lt;/h2&gt;
-
-
-
-
-
-
-&lt;style&gt;
-.__h_video {
-   position: relative;
-   padding-bottom: 56.23%;
-   height: 0;
-   overflow: hidden;
-   width: 100%;
-   background: #000;
-}
-.__h_video img {
-   width: 100%;
-   height: auto;
-   color: #000;
-}
-.__h_video .play {
-   height: 72px;
-   width: 72px;
-   left: 50%;
-   top: 50%;
-   margin-left: -36px;
-   margin-top: -36px;
-   position: absolute;
-   cursor: pointer;
-}
-&lt;/style&gt;
-
-
-&lt;div class=&#34;s_video_simple __h_video&#34;&gt;
-&lt;a href=&#34;https://vimeo.com/4.8912912e&amp;#43;07&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;
-
-
-&lt;img src=&#34;https://i.vimeocdn.com/video/337401969_640.jpg&#34; srcset=&#34;https://i.vimeocdn.com/video/337401969_640.jpg 1x, https://i.vimeocdn.com/video/337401969.jpg 2x&#34; alt=&#34;Sing Jan Swing - Kinetic Type&#34;&gt;
-&lt;div class=&#34;play&#34;&gt;&lt;svg version=&#34;1&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 61 61&#34;&gt;&lt;circle cx=&#34;30.5&#34; cy=&#34;30.5&#34; r=&#34;30.5&#34; opacity=&#34;.8&#34; fill=&#34;#000&#34;&gt;&lt;/circle&gt;&lt;path d=&#34;M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z&#34; fill=&#34;#fff&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;</description>
     </item>
     
     <item>
