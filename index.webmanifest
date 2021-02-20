@@ -2,8 +2,8 @@
   "name": "сельский тестер",
   "short_name": "сельский тестер",
   "lang": "ru",
-  "theme_color": "#ff8484",
-  "background_color": "#ff8484",
+  "theme_color": "#fe8481",
+  "background_color": "#fe8481",
   "icons": [{
     "src": "/img/mstile-150x150_hu925f1eb09004ef6fa1eb3a268807fdd0_7989_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",

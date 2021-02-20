@@ -22,6 +22,37 @@
 &lt;h3 id=&#34;kinestetic---_corridor_&#34;&gt;&lt;strong&gt;Kinestetic&lt;/strong&gt; - &lt;em&gt;Corridor&lt;/em&gt;&lt;/h3&gt;
 &lt;p&gt;Как это часто у нас бывает, артист может  играть десятки крышесносных лайвов, постоянно их обновлять и дорабатывать, но при этом не издавать почти совсем ничего. Раньше мы комплексовали на эту тему, но потом пришло понимание – мы процесс, а не продукт. И тем ценнее момент живых выступлений. То что происходит здесь и сейчас.&lt;/p&gt;
 &lt;p&gt;Кинестетик дебютировал в SSS ровно три года назад и вот наконец мы дождались сольный релиз.Кстати, на подходе ещё один, с чем нас всех и поздравляем.&lt;/p&gt;
+
+  &lt;div id=&#34;aplayer&#34; class=&#34;aplayer&#34;&gt;&lt;/div&gt;
+
+
+  
+  
+  
+  
+&lt;script&gt;
+  const ap = new APlayer({
+    container: document.getElementById(&#39;aplayer&#39;),
+    fixed: false,
+    autoplay: false,
+    theme: &#39;#FADFA3&#39;,
+    loop: &#39;all&#39;,
+    order: &#39;random&#39;,
+    preload: &#39;auto&#39;,
+    volume: 0.7,
+    listFolded: false,
+    audio:[
+    {
+        name: &#39;kinestetic&#39;,
+        artist: &#39;artists&#39;,
+        url: &#39;DieAntwoord.mp3&#39;,
+        cover: &#39;featured.jpg&#39;
+    }],
+});
+
+
+&lt;/script&gt;
+  
 &lt;p&gt;&lt;em&gt;Закрываем глаза. Делаем громко.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Om WiFi 🙏🏻&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Арт на обложке:&lt;/strong&gt;  

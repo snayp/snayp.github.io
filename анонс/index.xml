@@ -49,12 +49,37 @@
       <description>&lt;p&gt;Единственный предновогодний концерт Oлег Сурков &amp;amp; Off Sound System в Москве!&lt;/p&gt;
 &lt;p&gt;Oлег Сурков &amp;amp; Off Sound System - совместный электронный проект Олега Суркова - солиста и автора всех песен группы «Палево» и легендарного барабанщика Ильи Оffыча Смирнова («Samosad Band», «ВПР и Фестиваль Всего на Свете», «Space Cats», «Rapapam&amp;amp;DUBCHIKIDUB» и многие другие).&lt;/p&gt;
 &lt;p&gt;Благодаря замысловатым электронным аранжировкам Оffыча композиции «Палева» в этот вечер заиграют новыми психоделическими красками. Поклонники группы услышат знакомые песни в совершенно неожиданном виде, а фанаты качевых битов получат возможность раствориться в космическом саунде десятка топовых синтезаторов.&lt;/p&gt;
-&lt;div id=&#34;vk_playlist_-201033896_1&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34;&gt;
-  (function() {
-    VK.Widgets.Playlist(&#34;vk_playlist_-201033896_1&#34;, &#34;-201033896&#34;, &#34;1&#34;,&#39;7be6b9da8a83a67685&#39;);
-  }());
+
+  &lt;div id=&#34;aplayer&#34; class=&#34;aplayer&#34;&gt;&lt;/div&gt;
+
+
+  
+  
+  
+  
+&lt;script&gt;
+  const ap = new APlayer({
+    container: document.getElementById(&#39;aplayer&#39;),
+    fixed: false,
+    autoplay: false,
+    theme: &#39;#FADFA3&#39;,
+    loop: &#39;all&#39;,
+    order: &#39;random&#39;,
+    preload: &#39;auto&#39;,
+    volume: 0.7,
+    listFolded: false,
+    audio:[
+    {
+        name: &#39;kinestetic&#39;,
+        artist: &#39;artists&#39;,
+        url: &#39;DieAntwoord.mp3&#39;,
+        cover: &#39;featured.jpg&#39;
+    }],
+});
+
+
 &lt;/script&gt;
+  
 </description>
     </item>
     
