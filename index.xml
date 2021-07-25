@@ -729,14 +729,6 @@ art.on(&#39;hover&#39;, function() {
     </item>
     
     <item>
-      <title></title>
-      <link>https://snayp.github.io/%D1%82%D0%B8%D0%BF/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://snayp.github.io/%D1%82%D0%B8%D0%BF/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Syntax Highlighting Test</title>
       <link>https://snayp.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/syntax-highlighting-test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
